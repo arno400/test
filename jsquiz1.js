@@ -1,25 +1,25 @@
 (function() {
     var questions = [{
       
-      question: "In which galaxy do we live",
+      question: "In which galaxy do we live?",
       choices: ["Andromeda", "Milky Way", "None of the above", "All of the above", "Could not say"],
       correctAnswer: 1
     }, {
-      question: "which is the hottest planet in our solar system",
+      question: "Which is the hottest planet in our solar system?",
       choices: ["Mars", "Uranus", "Jupiter", "Saturn", "Venus"],
       correctAnswer: 4
     }, {
       question: "What is the temprature of Venus?",
-      choices: [124, 63, 436, 327, 248],
+      choices: [624” F, 763” F, 636” F, 820” F, 590” F],
       correctAnswer: 3
     }, {
-        question: "What is 7*3?",
-      choices: [67, 33, 21, 27, 48],
+        question: "On which planet do we live?",
+      choices: ["venus", "mars", "earth", "uranus", "neptune"],
       correctAnswer: 2
 
     }, {
-        question: "What is 5*7?",
-      choices: [88, 25, 35, 44, 32],
+        question: "Which is the closest planet to sun?",
+      choices: ["mercury", "earth", "jupiter", "venus","saturn"],
       correctAnswer: 0
     }];
     
