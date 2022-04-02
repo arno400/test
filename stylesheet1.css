@@ -8,13 +8,13 @@ h1 {
     text-align: center;
     font-family: algerian;
     font-weight: 100;
-    color: rgb(195, 160, 0);
+    color: rgb(239 0 0);
     text-transform: uppercase;
     text-shadow: black;
 }
 
 #title {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 #quiz {
@@ -64,7 +64,7 @@ button {
     background-repeat: no-repeat;
     background-size:  auto;
     border-radius:5px;
-    color: #fffe00;
+    color: #00c3ff;
     font-weight: bold;
     box-shadow: 10px 10px 10px #888;
     height: 320px;
